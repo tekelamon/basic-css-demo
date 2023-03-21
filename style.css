@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    color: black;
+}
+
+nav{
+    height: 40px;
+    background-color: hsl(0, 0%, 25%);
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 10px;
+    margin: auto;
+}
+
+footer {
+    background-color: hsl(0, 0%, 75%);
+    text-align: center;
+}
